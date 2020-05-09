@@ -1,4 +1,4 @@
-def speak_to_grandma(say)
+speak_to_grandma(say)
   if say = "Hi grandma"
     puts "HUH?!SPEAK UP, SONNY!"
   elseif say = "HI GRANDMA"
