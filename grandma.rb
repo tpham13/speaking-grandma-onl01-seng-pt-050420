@@ -1,9 +1,9 @@
-def speak_to_grandma(say)
-  if say = "Hi grandma"
+def speak_to_grandma(phrase)
+  if phrase = "Hi grandma"
     puts "HUH?!SPEAK UP, SONNY!"
-  if say = "HI GRANDMA"
+  elsif phrase = "HI GRANDMA"
     puts "NO, NOT SINCE 1938!"
-  else #{say} = "I LOVE YOU GRANDMA!"
+  else phrase = "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
 end
 
