@@ -14,7 +14,7 @@
 
 speak_to_grandma = "Hi grandma"
 
-if speak_to_grandma = "Hi grandma"
+if speak_to_grandma = "HI GRANDMA"
  puts "HUH?! SPEAK UP, SONNY"
 else puts "NO, NOT SINCE 1938"
 end
