@@ -1,7 +1,7 @@
 def speak_to_grandma(say)
-  if #{say} = "Hi grandma"
+  if say = "Hi grandma"
     puts "HUH?!SPEAK UP, SONNY!"
-  elseif #{say} = "HI GRANDMA"
+  if say = "HI GRANDMA"
     puts "NO, NOT SINCE 1938!"
   else #{say} = "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
