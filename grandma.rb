@@ -12,9 +12,9 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-speak_to_grandma = "Hi grandma"
+speak_to_grandma = "HI GRANDMA"
 
-if speak_to_grandma = "HI GRANDMA"
+if speak_to_grandma = "Hi grandma"
  puts "HUH?! SPEAK UP, SONNY"
 else puts "NO, NOT SINCE 1938"
 end
